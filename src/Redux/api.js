@@ -1,6 +1,6 @@
 import axios from "axios";
 
-let URL_API_SERVER = "http://localhost:8080"
+let URL_API_SERVER = "https://2761-181-248-148-110.ngrok.io"
 
 export const getComic = async (id) => {
 
